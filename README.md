@@ -1,2 +1,2 @@
 This is the second version of my  shopping mart
-ADDed new commit
+ADDed new commitgit 
